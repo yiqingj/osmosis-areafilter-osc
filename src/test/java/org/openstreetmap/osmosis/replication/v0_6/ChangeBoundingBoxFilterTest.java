@@ -1,5 +1,5 @@
 // This software is released into the Public Domain.  See copying.txt for details.
-package org.openstreetmap.osmosis.areafilter.v0_6;
+package org.openstreetmap.osmosis.replication.v0_6;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -16,6 +16,8 @@ import org.openstreetmap.osmosis.core.domain.v0_6.Node;
 import org.openstreetmap.osmosis.core.domain.v0_6.OsmUser;
 import org.openstreetmap.osmosis.core.domain.v0_6.Tag;
 import org.openstreetmap.osmosis.core.filter.common.IdTrackerType;
+import org.openstreetmap.osmosis.replication.v0_6.ChangeAreaFilter;
+import org.openstreetmap.osmosis.replication.v0_6.ChangeBoundingBoxFilter;
 import org.openstreetmap.osmosis.testutil.v0_6.SinkChangeInspector;
 
 

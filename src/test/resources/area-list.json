@@ -1,0 +1,23 @@
+[
+    {
+        "name": "sunnyvale",
+        "bound": {"top-left": "37.402969,-122.066646",
+                  "bottom-right": "37.330555,-121.978231"
+        },
+        "folder": "sunnyvale"
+    },
+    {
+        "name": "mountain view",
+        "bound": {"top-left": "37.402969,-122.066646",
+                  "bottom-right": "37.330555,-121.978231"
+        },
+        "folder": "mountainview"
+    },
+    {
+        "name": "bay area",
+        "bound": {"top-left": "38.100809,-122.863144",
+                  "bottom-right": "37.156528,-121.359176"
+        },
+        "folder": "bayarea"
+    }
+]
